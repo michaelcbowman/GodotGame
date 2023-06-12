@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/chest.ogg-8f3d31edc067070410a3c509ff5c820a.oggstr"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/chest.ogg"
+dest_files=[ "res://.import/chest.ogg-8f3d31edc067070410a3c509ff5c820a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

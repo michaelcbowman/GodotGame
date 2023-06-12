@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/enchanted_forest.mp3-245b34e1f8b07a07b951ae2833df989b.mp3str"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/enchanted_forest.mp3"
+dest_files=[ "res://.import/enchanted_forest.mp3-245b34e1f8b07a07b951ae2833df989b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

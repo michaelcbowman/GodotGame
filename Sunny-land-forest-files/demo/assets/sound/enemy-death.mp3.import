@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/enemy-death.mp3-b17d4dab550d650a5c435260e8915d31.mp3str"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/enemy-death.mp3"
+dest_files=[ "res://.import/enemy-death.mp3-b17d4dab550d650a5c435260e8915d31.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

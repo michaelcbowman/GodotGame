@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/enchanted_forest_loop.ogg-9b5a4fcd13f2b00ae6fa2153fdc61c2b.oggstr"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/enchanted_forest_loop.ogg"
+dest_files=[ "res://.import/enchanted_forest_loop.ogg-9b5a4fcd13f2b00ae6fa2153fdc61c2b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

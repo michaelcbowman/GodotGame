@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hurt.ogg-f4a3aee2228eb5fbe888ba9d023c54ab.oggstr"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/hurt.ogg"
+dest_files=[ "res://.import/hurt.ogg-f4a3aee2228eb5fbe888ba9d023c54ab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

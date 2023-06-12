@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jump.ogg-f71d6b804622e4ba0fd9df6748ac37f3.oggstr"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/jump.ogg"
+dest_files=[ "res://.import/jump.ogg-f71d6b804622e4ba0fd9df6748ac37f3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

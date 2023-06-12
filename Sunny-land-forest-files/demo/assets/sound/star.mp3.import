@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/star.mp3-4086e5d4650c2b68712de1d6ab7aa8e9.mp3str"
+
+[deps]
+
+source_file="res://Sunny-land-forest-files/demo/assets/sound/star.mp3"
+dest_files=[ "res://.import/star.mp3-4086e5d4650c2b68712de1d6ab7aa8e9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
